@@ -3,6 +3,6 @@ module Dance
     "I'm twirling!"
   end
   def jump
-    "I'm jumping!"
+    "Look how high I'm jumping!"
   end
 end
