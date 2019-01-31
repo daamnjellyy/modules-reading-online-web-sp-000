@@ -7,6 +7,7 @@ class Kid
   include FancyDance::InstanceMethods
 end
 
+class Kid
   attr_accessor :name
 
   def initialize(name)
